@@ -41,9 +41,10 @@ The goal is to empower business owners, managers, and analysts to make data-driv
 
 ## 📸 Dashboard Preview  
 *(Add your own screenshots here for better presentation)*  
+<img width="1383" height="590" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/823f4db2-581c-4433-b0cb-cfb40f5b0598" />
+<img width="1237" height="558" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/57fda486-5898-4c5b-8ec2-b9aa96e392c9" />
 
-![Dashboard Screenshot 1](screenshots/dashboard_1.png)  
-![Dashboard Screenshot 2](screenshots/dashboard_2.png)
+
 
 ---
 
